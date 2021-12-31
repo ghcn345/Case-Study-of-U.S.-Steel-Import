@@ -16,3 +16,9 @@ Can you figure out a way to get a sense of steel inventories of current US mills
 
 ![graph](images/category6_price.png)
 
+### Product Category
+
+![graph](images/category_product_volume.png)
+
+
+![graph](images/category_product_price.png)
