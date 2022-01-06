@@ -27,3 +27,5 @@ Can you figure out a way to get a sense of steel inventories of current US mills
 
 ![graph](images/country_volume.png)
 ![graph](images/country_price.png)
+
+![graph](images/country10.png)
